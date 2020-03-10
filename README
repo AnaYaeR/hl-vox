@@ -11,6 +11,7 @@ Installation works like this:
 Keep in mind that this is a COMMAND LINE INTERFACE PROGRAM! You will have to use your terminal to do this.
 
 The command-line syntax is hl-vox [filename]
+You can find some example files in example-files. I'll probably make an actual tutorial on how to use this later.
 
 Report bugs to noticek06@gmail.com
 
