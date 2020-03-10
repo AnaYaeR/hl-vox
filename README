@@ -1,0 +1,15 @@
+Installation works like this:
+
+1. Clone the repo into its own folder
+
+2. Run make
+
+3. Put the newly-created executable where ever you want
+
+4. Extract the contents of the "vox.zip" file into that directory
+
+Keep in mind that this is a COMMAND LINE INTERFACE PROGRAM! You will have to use your terminal to do this.
+
+Report bugs to noticek06@gmail.com
+
+Thanks for checking out my program!
